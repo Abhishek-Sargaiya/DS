@@ -1,0 +1,1 @@
+{"name":"Local: maxindex","url":"c:\\Users\\Aspire\\OneDrive\\Desktop\\new\\maxindex.cpp","tests":[{"id":1664124605898,"input":"5\n0\n-5\n4\n8\n12\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Aspire\\OneDrive\\Desktop\\new\\maxindex.cpp","group":"local","local":true}
